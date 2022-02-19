@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elijah Mbugi
 - 👀 I’m interested in creating simple designs with lasting impact.
-- 🌱 I’m currently learning fullstack software development.
+- 🌱 I’m currently learning fullstack software development at Moringa School.
 - 💞️ I’m looking to collaborate on building projects.
 - 📫 How to reach me ...mukundielijah@gmail.com
 
