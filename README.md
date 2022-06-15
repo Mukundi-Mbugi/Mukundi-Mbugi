@@ -6,8 +6,8 @@
 - 💞️ I’m looking to collaborate on building projects.
 - 📫 How to reach me ...mukundielijah@gmail.com
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mukundi-Mbugi&show_icons=true&theme=blue-green)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukundi-Mbugi&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mukundi-Mbugi&show_icons=true&theme=blue-yellow)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukundi-Mbugi&theme=blue-yellow)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mukundi-Mbugi)
 
